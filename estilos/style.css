@@ -25,10 +25,6 @@ h2 {
     color: rgb(58, 0, 112);
 }
 
-img.meio {
-    float:inline-start
-}
-
 img.lado {
     float: right;
 }
