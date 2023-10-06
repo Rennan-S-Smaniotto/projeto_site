@@ -15,14 +15,21 @@ main {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 
-h1 {
-    font-size: 2em;
+h1, h2 {
+    font-weight: 600;
+    text-align: center;
+    font-size: 1.5em;
     color: rgb(58, 0, 112);
 }
 
-h2 {
-    font-size: 1.5em;
-    color: rgb(58, 0, 112);
+p {
+    font-weight: 500;
+    color: rgb(13, 0, 0);
+}
+
+#meio {
+    display: flex;
+    justify-content: center;
 }
 
 img.lado {
